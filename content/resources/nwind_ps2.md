@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-561-information-technology-essentials-spring-2005/b138fcaac9163315b9e5ba52934d0b98_nwind_ps2.mdb
+file: /media/courses/15-561-information-technology-essentials-spring-2005/b138fcaac9163315b9e5ba52934d0b98_nwind_ps2.mdb
 file_type: application/octet-stream
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: nwind_ps2.mdb
 uid: b138fcaa-c916-3315-b9e5-ba52934d0b98

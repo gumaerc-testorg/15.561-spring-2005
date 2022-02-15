@@ -3,8 +3,13 @@ content_type: resource
 description: This file contains information on network protocols, types of connection
   protocols, cellular phone networks, and different cellular standards, Wi-fi, bluetooth
   etc.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-561-information-technology-essentials-spring-2005/896eae8f7451e5652018d17a6c80f44a_lecture4.pdf
+file: /media/courses/15-561-information-technology-essentials-spring-2005/896eae8f7451e5652018d17a6c80f44a_lecture4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture4.pdf
 uid: 896eae8f-7451-e565-2018-d17a6c80f44a
