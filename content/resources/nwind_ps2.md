@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 00d19554-4e55-1d63-9e3b-1eb8d89592cf
 resourcetype: Other
 title: nwind_ps2.mdb
 uid: b138fcaa-c916-3315-b9e5-ba52934d0b98
