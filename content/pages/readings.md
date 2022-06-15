@@ -1,495 +1,202 @@
 ---
 content_type: page
+description: Reading section contains a list of readings for various topics covered
+  in the course.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: ed626e5a-156e-771e-e91b-12796cf73865
 ---
-
 There are three optional textbooks, as well as a set of readings and Web references by lecture listed in the table below.
 
-Optional Textbooks
-------------------
+## Optional Textbooks
 
-White, Ron, et. al. _How Computers Work_. 7th ed. Indianapolis, IN: Que Publishing. ISBN: 0789730332.
+White, Ron, et. al. *How Computers Work*. 7th ed. Indianapolis, IN: Que Publishing. ISBN: 0789730332.
 
-Gralla, Preston, et. al. _How the Internet Works_. 7th ed. Indianapolis, IN: Que Publishing. ISBN: 0789729733.  
+Gralla, Preston, et. al. *How the Internet Works*. 7th ed. Indianapolis, IN: Que Publishing. ISBN: 0789729733.   
 Good introductory texts on the internals of computer hardware, system software and the Internet. Recommended if you don't have a background in science or engineering.
 
-Viescas, John L. _Running Microsoft® Access 2000_. Redmond, WA: Microsoft® Press, 1999. ISBN: 1572319348.  
+Viescas, John L. *Running Microsoft® Access 2000*. Redmond, WA: Microsoft® Press, 1999. ISBN: 1572319348.   
 One of the best and most detailed "bibles" on Microsoft® Access. The coverage is way beyond what will be covered in this course. This is an excellent reference book for students who are interested in becoming Microsoft® Access experts.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Lec #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Introduction: Fundamentals of Computing I
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **The Technology**
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Fundamentals of Computing II
+{{< tdclose >}}{{< tdopen >}}
 
+*Optional*
 
-{{< tdclose >}}
-{{< tdopen >}}
+Laudon, K. C., and J. P. Laudon. "Computer Hardware and Information Technology Infrastructure." Section 6.1 in *Management Information Systems: Organization and Technology*. Upper Saddle River, NJ: Prentice-Hall, 2004, pp. 182-190. ISBN: 0131538411.
 
+Mossberg, Walter S. "Do you really need a DDR SDRAM and 802.11b?" *Wall Street Journal*, December 4, 2002, D5.
 
-_Optional_
+———. "The Fall Buyer's Guide: Things to Keep In Mind When Choosing a PC." *Wall Street Journal,* September 30, 2004.
 
-Laudon, K. C., and J. P. Laudon. "Computer Hardware and Information Technology Infrastructure." Section 6.1 in _Management Information Systems: Organization and Technology_. Upper Saddle River, NJ: Prentice-Hall, 2004, pp. 182-190. ISBN: 0131538411.
-
-Mossberg, Walter S. "Do you really need a DDR SDRAM and 802.11b?" _Wall Street Journal_, December 4, 2002, D5.
-
-———. "The Fall Buyer's Guide: Things to Keep In Mind When Choosing a PC." _Wall Street Journal,_ September 30, 2004.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Networks I
+{{< tdclose >}}{{< tdopen >}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-_Recommended_
+*Recommended*
 
 Tutorial on [How the Internet Works](http://www.howstuffworks.com/internet-infrastructure.htm).
 
-Gralla, Preston, et. al. _How the Internet Works_. Illustrated by Mina Reimer, and Stephen Adams. 7th ed. Indianapolis, IN: Que Publishing. ISBN: 0789729733. 
+Gralla, Preston, et. al. *How the Internet Works*. Illustrated by Mina Reimer, and Stephen Adams. 7th ed. Indianapolis, IN: Que Publishing. ISBN: 0789729733. 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Networks II
+{{< tdclose >}}{{< tdopen >}}
 
+*Optional*
 
-{{< tdclose >}}
-{{< tdopen >}}
+Mossberg, Walter S. "Deciphering Cellphone Geek-Speak." *Wall Street Journal,* July 9, 2003, D5.
 
-
-_Optional_
-
-Mossberg, Walter S. "Deciphering Cellphone Geek-Speak." _Wall Street Journal,_ July 9, 2003, D5.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Programming Languages
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Relational Databases
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Peterson, John. Chapters 1, and 2 in _Absolute Beginner's Guide to Databases_. Indianapolis, IN: Que Publishing, 2002. pp. 7-16, and 19-41. ISBN: 078972569X.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+Peterson, John. Chapters 1, and 2 in *Absolute Beginner's Guide to Databases*. Indianapolis, IN: Que Publishing, 2002. pp. 7-16, and 19-41. ISBN: 078972569X.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Introduction to Microsoft® Access
+{{< tdclose >}}{{< tdopen >}}
 
+Peterson, John. Chapters 8-10 in *Absolute Beginner's Guide to Databases*. Indianapolis, IN: Que Publishing, 2002. pp. 159-234. ISBN: 078972569X.
 
-{{< tdclose >}}
-{{< tdopen >}}
+*Optional*
 
+Viescas, John L. *Running Microsoft® Access 2000*. Redmond, WA: Microsoft® Press, 1999. ISBN: 1572319348.
 
-Peterson, John. Chapters 8-10 in _Absolute Beginner's Guide to Databases_. Indianapolis, IN: Que Publishing, 2002. pp. 159-234. ISBN: 078972569X.
-
-_Optional_
-
-Viescas, John L_. Running Microsoft® Access 2000._ Redmond, WA: Microsoft® Press_,_ 1999. ISBN: 1572319348_._
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Web Technologies Fundamentals
+{{< tdclose >}}{{< tdopen >}}
 
+Comer, Douglas E. Chapter 24 in *The Internet Book*. 3rd ed. Upper Saddle River, NJ: Prentice Hall, 2000. pp. 223-242. ISBN: 0130308528.
 
-{{< tdclose >}}
-{{< tdopen >}}
+Berners-Lee, Tim, James Hendler, and Ora Lassila. "The Semantic Web." *Scientific American* (May 2001).
 
-
-Comer, Douglas E. Chapter 24 in _The Internet Book_. 3rd ed. Upper Saddle River, NJ: Prentice Hall, 2000. pp. 223-242. ISBN: 0130308528.
-
-Berners-Lee, Tim, James Hendler, and Ora Lassila. "The Semantic Web." _Scientific American_ (May 2001).
-
-_Recommended_
+*Recommended*
 
 PC Webopedia - [World Wide Web](http://www.pcwebopedia.com/World_Wide_Web/) Category Page.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Computer Security I: Encryption and Digital Signatures
+{{< tdclose >}}{{< tdopen >}}
 
+Turban, E., D. King, J. Lee, and D. Viehland. Chapter 12 in *Electronic Commerce: A Managerial Perspective*. Upper Saddle River, NJ: Pearson Prentice Hall, 2004. pp. 462-490. ISBN: 0130094935.
 
-{{< tdclose >}}
-{{< tdopen >}}
+*Optional*
 
+Zimmerman, Phil. Chapter 1 in [*An Introduction to Cryptography*](http://www.ncsa.illinois.edu/People/ncsairst/pgp/IntroToCrypto.pdf).
 
-Turban, E., D. King, J. Lee, and D. Viehland. Chapter 12 in _Electronic Commerce: A Managerial Perspective_. Upper Saddle River, NJ: Pearson Prentice Hall, 2004. pp. 462-490. ISBN: 0130094935.
-
-_Optional_
-
-Zimmerman, Phil. Chapter 1 in [_An Introduction to Cryptography_](http://www.ncsa.illinois.edu/People/ncsairst/pgp/IntroToCrypto.pdf).
-
-PC Webopedia - [Encryption Category Page](http://www.pcwebopedia.com/Networks/Security).  
+PC Webopedia - [Encryption Category Page](http://www.pcwebopedia.com/Networks/Security).   
 Terms to look up: symmetric-key cryptography, DES, public-key encryption, RSA, Pretty Good Privacy, authentication, digital signature, digital certificate, PKI, SSL, smart card.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Computer Security II: Network Security
+{{< tdclose >}}{{< tdopen >}}
 
+Turban, E., D. King, J. Lee, and D. Viehland. Chapter 12 in *Electronic Commerce: A Managerial Perspective*. Upper Saddle River, NJ: Pearson Prentice Hall, 2004. pp. 462-490. ISBN: 0130094935.
 
-{{< tdclose >}}
-{{< tdopen >}}
+*Optional*
 
+Zimmerman, Phil. Chapter 1 in [*An Introduction to Cryptography*](http://www.ncsa.illinois.edu/People/ncsairst/pgp/IntroToCrypto.pdf).
 
-Turban, E., D. King, J. Lee, and D. Viehland. Chapter 12 in _Electronic Commerce: A Managerial Perspective_. Upper Saddle River, NJ: Pearson Prentice Hall, 2004. pp. 462-490. ISBN: 0130094935.
-
-_Optional_
-
-Zimmerman, Phil. Chapter 1 in [_An Introduction to Cryptography_](http://www.ncsa.illinois.edu/People/ncsairst/pgp/IntroToCrypto.pdf).
-
-PC Webopedia - [Encryption Category Page](http://www.pcwebopedia.com/Networks/Security).  
+PC Webopedia - [Encryption Category Page](http://www.pcwebopedia.com/Networks/Security).   
 Terms to look up: symmetric-key cryptography, DES, public-key encryption, RSA, Pretty Good Privacy, authentication, digital signature, digital certificate, PKI, SSL, smart card.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Applications of Technology**
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 "Under the Hood" of a Commercial Website
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Treese, G. Winfield, and Lawrence C. Stewart. Chapter 19 in _Designing Systems for Internet Commerce_. 2nd ed. Reading, MA: Addison-Wesley 2003. pp. 375-387. ISBN: 0201760355.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+Treese, G. Winfield, and Lawrence C. Stewart. Chapter 19 in *Designing Systems for Internet Commerce*. 2nd ed. Reading, MA: Addison-Wesley 2003. pp. 375-387. ISBN: 0201760355.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Managing Software Development
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Enterprise Systems
+{{< tdclose >}}{{< tdopen >}}
 
+Davenport, T. H. "Putting the Enterprise into the Enterprise System." *Harvard Business Review* (August 1998): 121-131.
 
-{{< tdclose >}}
-{{< tdopen >}}
+*Optional*
 
+"An Eagle Eye on Customers." *Business Week*, February 21, 2000, 66-76.
 
-Davenport, T. H. "Putting the Enterprise into the Enterprise System." _Harvard Business Review_ (August 1998): 121-131.
-
-_Optional_
-
-"An Eagle Eye on Customers." _Business Week_, February 21, 2000, 66-76.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Systems that Span Multiple Enterprises
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Hagel III, John, and John Seely Brown. "Your Next IT Strategy." _Harvard Business Review_ (October 2001).
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+Hagel III, John, and John Seely Brown. "Your Next IT Strategy." *Harvard Business Review* (October 2001).
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Business Intelligence: Data Mining and Data Warehousing
+{{< tdclose >}}{{< tdopen >}}
 
+Berry, Michael J. A., and Gordon Linoff. Chapters 2, and 3 in *Data Mining Techniques: For Marketing, Sales, and Customer Support*. New York, NY: John Wiley & Sons, 1997. pp. 17-50. ISBN: 0471179809.
 
-{{< tdclose >}}
-{{< tdopen >}}
+*Optional*
 
+Berson, Alex, Stephen Smith, and Kurt Thearling. "[An Overview of Data Mining Techniques](http://webstaff.itn.liu.se/~jimjo/courses/TNM048/documents/DM-Techniques.pdf)." Excerpted from *Building Data Mining Applications for CRM*.
 
-Berry, Michael J. A., and Gordon Linoff. Chapters 2, and 3 in _Data Mining Techniques: For Marketing, Sales, and Customer Support_. New York, NY: John Wiley & Sons, 1997. pp. 17-50. ISBN: 0471179809.
-
-_Optional_
-
-Berson, Alex, Stephen Smith, and Kurt Thearling. "[An Overview of Data Mining Techniques](http://webstaff.itn.liu.se/~jimjo/courses/TNM048/documents/DM-Techniques.pdf)." Excerpted from _Building Data Mining Applications for CRM_.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Emerging Technologies
 
 Course Wrap-up
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Final Exam
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
