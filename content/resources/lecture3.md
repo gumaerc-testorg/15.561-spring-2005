@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains the information on basic networks, digital vs analog,
   digital convergence, bandwidth, multiplexing, local and wide networks, packet switching,
   internet addresses.
-file: /media/courses/15-561-information-technology-essentials-spring-2005/39c11ea0ef34a0e565fe71b1b29d48ae_lecture3.pdf
+file: /courses/15-561-information-technology-essentials-spring-2005/39c11ea0ef34a0e565fe71b1b29d48ae_lecture3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -15,3 +15,5 @@ resourcetype: Document
 title: lecture3.pdf
 uid: 39c11ea0-ef34-a0e5-65fe-71b1b29d48ae
 ---
+This file contains the information on basic networks, digital vs analog, digital convergence, bandwidth, multiplexing, local and wide networks, packet switching, internet addresses.
+
