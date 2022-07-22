@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Lecture notes section contains the notes for the topics covered in the
+  course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 162f5ef5-0118-dd0f-5531-71f9f27f4dd2
 ---
@@ -24,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction: Fundamentals of Computing I ([PDF]({{< baseurl >}}/resources/lecture1))
+Introduction: Fundamentals of Computing I ({{% resource_link 834414db-cc29-22c7-b0b0-2735e9d15a2e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,7 +44,7 @@ Introduction: Fundamentals of Computing I ([PDF]({{< baseurl >}}/resources/lect
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Fundamentals of Computing II ([PDF]({{< baseurl >}}/resources/lecture2))
+Fundamentals of Computing II ({{% resource_link 1583a489-9614-3e8e-6318-b15cf470c1c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +53,7 @@ Fundamentals of Computing II ([PDF]({{< baseurl >}}/resources/lecture2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Networks I ([PDF]({{< baseurl >}}/resources/lecture3))
+Networks I ({{% resource_link 39c11ea0-ef34-a0e5-65fe-71b1b29d48ae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +62,7 @@ Networks I ([PDF]({{< baseurl >}}/resources/lecture3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Networks II ([PDF]({{< baseurl >}}/resources/lecture4))
+Networks II ({{% resource_link 896eae8f-7451-e565-2018-d17a6c80f44a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Networks II ([PDF]({{< baseurl >}}/resources/lecture4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Programming Languages ([PDF]({{< baseurl >}}/resources/lecture5))
+Programming Languages ({{% resource_link bfa1e272-a0a7-4fc4-ff15-6a55e780125e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +80,7 @@ Programming Languages ([PDF]({{< baseurl >}}/resources/lecture5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Relational Databases ([PDF]({{< baseurl >}}/resources/lecture6))
+Relational Databases ({{% resource_link f1bd9947-61ee-f5e2-592b-ea0832e8a9cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +89,7 @@ Relational Databases ([PDF]({{< baseurl >}}/resources/lecture6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Microsoft® Access ([PDF]({{< baseurl >}}/resources/lecture7))
+Introduction to Microsoft® Access ({{% resource_link e47120c7-f8f2-2a60-3047-f8d018904dbe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +98,7 @@ Introduction to Microsoft® Access ([PDF]({{< baseurl >}}/resources/lecture7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Web Technologies Fundamentals ([PDF - 2.7 MB]({{< baseurl >}}/resources/lecture8))
+Web Technologies Fundamentals ({{% resource_link 81dcc1d5-a6d3-8d4f-1921-44a875596e8f "PDF - 2.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Web Technologies Fundamentals ([PDF - 2.7 MB]({{< baseurl >}}/resources/lecture8
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Computer Security I: Encryption and Digital Signatures ([PDF]({{< baseurl >}}/resources/lec9and10))
+Computer Security I: Encryption and Digital Signatures ({{% resource_link ff9a4c3a-f6bd-bcb8-42d5-34ef6c24b01f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ Computer Security II: Network Security
 11
 {{< tdclose >}}
 {{< tdopen >}}
-"Under the Hood" of a Commercial Website ([PDF]({{< baseurl >}}/resources/lecture11))
+"Under the Hood" of a Commercial Website ({{% resource_link b90bd1af-6174-f5f4-c50b-0020045cc14e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +140,7 @@ Computer Security II: Network Security
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Managing Software Development ([PDF]({{< baseurl >}}/resources/lecture12))
+Managing Software Development ({{% resource_link a9bff0fd-dcd4-a00c-93f9-ced27b2dbbc7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +149,7 @@ Managing Software Development ([PDF]({{< baseurl >}}/resources/lecture12))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Enterprise Systems ([PDF 2.1 MB]({{< baseurl >}}/resources/lecture13))
+Enterprise Systems ({{% resource_link d7b0b42f-c6b0-e6d8-2f26-6a3db06ef75a "PDF 2.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +158,7 @@ Enterprise Systems ([PDF 2.1 MB]({{< baseurl >}}/resources/lecture13))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Systems that Span Multiple Enterprises ([PDF]({{< baseurl >}}/resources/lecture14))
+Systems that Span Multiple Enterprises ({{% resource_link c51056c8-6fa9-23c5-6d38-437081e46afa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +167,7 @@ Systems that Span Multiple Enterprises ([PDF]({{< baseurl >}}/resources/lecture1
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Business Intelligence: Data Mining and Data Warehousing ([PDF]({{< baseurl >}}/resources/lecture15))
+Business Intelligence: Data Mining and Data Warehousing ({{% resource_link 9c233972-f77a-75ef-1220-cfbfe01b6475 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +176,7 @@ Business Intelligence: Data Mining and Data Warehousing ([PDF]({{< baseurl >}}/r
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Emerging Technologies; Course Wrap-up ([PDF]({{< baseurl >}}/resources/lecture16))
+Emerging Technologies; Course Wrap-up ({{% resource_link afd96589-b702-0aa7-da2e-bcfc28d53274 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
