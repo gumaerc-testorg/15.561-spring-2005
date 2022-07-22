@@ -6,6 +6,7 @@ file: /courses/15-561-information-technology-essentials-spring-2005/834414dbcc29
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture1.pdf
 uid: 834414db-cc29-22c7-b0b0-2735e9d15a2e
 ---
 This file contains the basics of information technology, course objectives, overview, and examples of typical and simplified computers.
-

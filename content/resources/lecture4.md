@@ -7,6 +7,7 @@ file: /courses/15-561-information-technology-essentials-spring-2005/896eae8f7451
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture4.pdf
 uid: 896eae8f-7451-e565-2018-d17a6c80f44a
 ---
 This file contains information on network protocols, types of connection protocols, cellular phone networks, and different cellular standards, Wi-fi, bluetooth etc.
-

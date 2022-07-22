@@ -6,6 +6,7 @@ file: /courses/15-561-information-technology-essentials-spring-2005/afd96589b702
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture16.pdf
 uid: afd96589-b702-0aa7-da2e-bcfc28d53274
 ---
 This file contains the information about technology futures, communications, input/output devices, Kurzweil's predictions, and course wrap up.
-

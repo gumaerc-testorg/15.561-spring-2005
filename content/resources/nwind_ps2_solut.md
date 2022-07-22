@@ -5,6 +5,7 @@ file: /courses/15-561-information-technology-essentials-spring-2005/671675aae322
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

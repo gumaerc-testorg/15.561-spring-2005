@@ -7,6 +7,7 @@ file: /courses/15-561-information-technology-essentials-spring-2005/c51056c86fa9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture14.pdf
 uid: c51056c8-6fa9-23c5-6d38-437081e46afa
 ---
 This file contains the information about three generations of web, xml, simple web simple architecture, RDF and its example, ontology and example, web services, web service architecture, SOAP, UDDI, WSDL.
-

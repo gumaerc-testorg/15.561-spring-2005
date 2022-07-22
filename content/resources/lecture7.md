@@ -6,6 +6,7 @@ file: /courses/15-561-information-technology-essentials-spring-2005/e47120c7f8f2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture7.pdf
 uid: e47120c7-f8f2-2a60-3047-f8d018904dbe
 ---
 This file contains the introduction to access along with information on tables, queries etc.
-

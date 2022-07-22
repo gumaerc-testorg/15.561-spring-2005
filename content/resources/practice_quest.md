@@ -6,6 +6,7 @@ file: /courses/15-561-information-technology-essentials-spring-2005/a4ed11911bc2
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: practice_quest.pdf
 uid: a4ed1191-1bc2-e0e9-6692-e1ebd5a691a3
 ---
 This file contains a set of questions for the practice covering all the topics in the course.
-
