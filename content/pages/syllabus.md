@@ -83,7 +83,7 @@ Microsoft® Access is required for completing Assignment 2. Microsoft® Access i
 Recommended Web Materials
 -------------------------
 
-The PC [Webopedia](http://www.pcwebopedia.com/) is a Web site that serves as an encyclopedia of Information Technology terms. It provides excellent explanations of many Information Technology terms, together with links to additional web pages related to them. For many of the lectures, the course Web page contains pointers to the relevant category of the PC Webopedia. We **strongly encourage** you to use this valuable resource to clarify unanswered questions and to go beyond the material covered in class, according to your own personal interests.
+The PC {{% resource_link "cb18bfd7-0fe8-4ba6-9816-92b3025a73f6" "Webopedia" %}} is a Web site that serves as an encyclopedia of Information Technology terms. It provides excellent explanations of many Information Technology terms, together with links to additional web pages related to them. For many of the lectures, the course Web page contains pointers to the relevant category of the PC Webopedia. We **strongly encourage** you to use this valuable resource to clarify unanswered questions and to go beyond the material covered in class, according to your own personal interests.
 
 Optional Textbooks
 ------------------
