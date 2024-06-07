@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information about technology futures, communications,
   input/output devices, Kurzweil's predictions, and course wrap up.
 file: /courses/15-561-information-technology-essentials-spring-2005/afd96589b7020aa7da2ebcfc28d53274_lecture16.pdf
+file_size: 113206
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

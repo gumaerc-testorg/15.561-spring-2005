@@ -4,6 +4,7 @@ description: This file contains information on network protocols, types of conne
   protocols, cellular phone networks, and different cellular standards, Wi-fi, bluetooth
   etc.
 file: /courses/15-561-information-technology-essentials-spring-2005/896eae8f7451e5652018d17a6c80f44a_lecture4.pdf
+file_size: 206248
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

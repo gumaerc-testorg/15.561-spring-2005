@@ -4,6 +4,7 @@ description: This file contains the information on types of software, programmin
   language, machine language, assembly language, high level languages, and code snippets
   from various languages as examples.
 file: /courses/15-561-information-technology-essentials-spring-2005/bfa1e272a0a74fc4ff156a55e780125e_lecture5.pdf
+file_size: 192428
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
