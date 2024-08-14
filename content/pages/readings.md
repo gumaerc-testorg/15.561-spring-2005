@@ -57,7 +57,7 @@ Networks I
 
 *Recommended*
 
-Tutorial on [How the Internet Works](http://www.howstuffworks.com/internet-infrastructure.htm).
+Tutorial on {{% resource_link "8d04bb2e-8f89-4592-994f-bf72e547ac4d" "How the Internet Works" %}}.
 
 Gralla, Preston, et. al. *How the Internet Works*. Illustrated by Mina Reimer, and Stephen Adams. 7th ed. Indianapolis, IN: Que Publishing. ISBN: 0789729733. 
 
@@ -107,7 +107,7 @@ Berners-Lee, Tim, James Hendler, and Ora Lassila. "The Semantic Web." *Scientifi
 
 *Recommended*
 
-PC Webopedia - [World Wide Web](http://www.pcwebopedia.com/World_Wide_Web/) Category Page.
+PC Webopedia - {{% resource_link "943eca22-76eb-4f24-a70d-5ef141f3dfe5" "World Wide Web" %}} Category Page.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -119,9 +119,9 @@ Turban, E., D. King, J. Lee, and D. Viehland. Chapter 12 in *Electronic Commerce
 
 *Optional*
 
-Zimmerman, Phil. Chapter 1 in [*An Introduction to Cryptography*](http://www.ncsa.illinois.edu/People/ncsairst/pgp/IntroToCrypto.pdf).
+Zimmerman, Phil. Chapter 1 in {{% resource_link "bcdd0207-7601-4897-b5f5-aba32ec3b716" "*An Introduction to Cryptography*" %}}.
 
-PC Webopedia - [Encryption Category Page](http://www.pcwebopedia.com/Networks/Security).   
+PC Webopedia - {{% resource_link "1b29aebd-e098-481f-a4e4-737d435a6271" "Encryption Category Page" %}}.   
 Terms to look up: symmetric-key cryptography, DES, public-key encryption, RSA, Pretty Good Privacy, authentication, digital signature, digital certificate, PKI, SSL, smart card.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -134,9 +134,9 @@ Turban, E., D. King, J. Lee, and D. Viehland. Chapter 12 in *Electronic Commerce
 
 *Optional*
 
-Zimmerman, Phil. Chapter 1 in [*An Introduction to Cryptography*](http://www.ncsa.illinois.edu/People/ncsairst/pgp/IntroToCrypto.pdf).
+Zimmerman, Phil. Chapter 1 in {{% resource_link "bcdd0207-7601-4897-b5f5-aba32ec3b716" "*An Introduction to Cryptography*" %}}.
 
-PC Webopedia - [Encryption Category Page](http://www.pcwebopedia.com/Networks/Security).   
+PC Webopedia - {{% resource_link "1b29aebd-e098-481f-a4e4-737d435a6271" "Encryption Category Page" %}}.   
 Terms to look up: symmetric-key cryptography, DES, public-key encryption, RSA, Pretty Good Privacy, authentication, digital signature, digital certificate, PKI, SSL, smart card.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -181,7 +181,7 @@ Berry, Michael J. A., and Gordon Linoff. Chapters 2, and 3 in *Data Mining Techn
 
 *Optional*
 
-Berson, Alex, Stephen Smith, and Kurt Thearling. "[An Overview of Data Mining Techniques](http://webstaff.itn.liu.se/~jimjo/courses/TNM048/documents/DM-Techniques.pdf)." Excerpted from *Building Data Mining Applications for CRM*.
+Berson, Alex, Stephen Smith, and Kurt Thearling. "{{% resource_link "54d48b9e-b19f-4def-be9e-bf9298de2f98" "An Overview of Data Mining Techniques" %}}." Excerpted from *Building Data Mining Applications for CRM*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
