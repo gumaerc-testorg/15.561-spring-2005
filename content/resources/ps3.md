@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the assignment to conduct an online survey for various
   scenarios.
-file: /courses/15-561-information-technology-essentials-spring-2005/c26e5fc3701a9a8b728fc38ec3d18f57_ps3.pdf
+file: /ol-ocw-studio-app/courses/15-561-information-technology-essentials-spring-2005/c26e5fc3701a9a8b728fc38ec3d18f57_ps3.pdf
 file_size: 261050
 file_type: application/pdf
 learning_resource_types:

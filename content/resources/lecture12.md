@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains the information on approaches to software development,
   traditional system development lifecycle, prototyping, packaged software, end user
   development, application, open source etc.
-file: /courses/15-561-information-technology-essentials-spring-2005/a9bff0fddcd4a00c93f9ced27b2dbbc7_lecture12.pdf
+file: /ol-ocw-studio-app/courses/15-561-information-technology-essentials-spring-2005/a9bff0fddcd4a00c93f9ced27b2dbbc7_lecture12.pdf
 file_size: 122731
 file_type: application/pdf
 learning_resource_types:
