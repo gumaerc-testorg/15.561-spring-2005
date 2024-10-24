@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the basic information on computers, CPU, conversions
   to decimal and binary, hard disks, CD ROM's, DVD's, I/O devices etc.
-file: /courses/15-561-information-technology-essentials-spring-2005/1583a48996143e8e6318b15cf470c1c2_lecture2.pdf
+file: /ol-ocw-studio-app/courses/15-561-information-technology-essentials-spring-2005/1583a48996143e8e6318b15cf470c1c2_lecture2.pdf
 file_size: 272275
 file_type: application/pdf
 learning_resource_types:
