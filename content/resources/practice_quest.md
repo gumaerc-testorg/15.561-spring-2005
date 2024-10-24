@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains a set of questions for the practice covering all the
   topics in the course.
-file: /courses/15-561-information-technology-essentials-spring-2005/a4ed11911bc2e0e96692e1ebd5a691a3_practice_quest.pdf
+file: /ol-ocw-studio-app/courses/15-561-information-technology-essentials-spring-2005/a4ed11911bc2e0e96692e1ebd5a691a3_practice_quest.pdf
 file_size: 172032
 file_type: application/pdf
 learning_resource_types:
