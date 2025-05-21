@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains the information on database, with examples of northwind
   database, spreadsheets vs database,relational databases, SQL and how to carry out
   commands in sql.
-file: /ol-ocw-studio-app/courses/15-561-information-technology-essentials-spring-2005/f1bd994761eef5e2592bea0832e8a9cf_lecture6.pdf
+file: /courses/15-561-information-technology-essentials-spring-2005/f1bd994761eef5e2592bea0832e8a9cf_lecture6.pdf
 file_size: 989732
 file_type: application/pdf
 learning_resource_types:
