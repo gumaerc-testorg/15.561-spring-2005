@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-561-information-technology-essentials-spring-2005/a997070e39accd9763e20809b879fdfb_ps1teachingnote.pdf
+file: /courses/15-561-information-technology-essentials-spring-2005/a997070e39accd9763e20809b879fdfb_ps1teachingnote.pdf
 file_size: 487847
 file_type: application/pdf
 learning_resource_types:

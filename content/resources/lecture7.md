@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the introduction to access along with information
   on tables, queries etc.
-file: /ol-ocw-studio-app/courses/15-561-information-technology-essentials-spring-2005/e47120c7f8f22a603047f8d018904dbe_lecture7.pdf
+file: /courses/15-561-information-technology-essentials-spring-2005/e47120c7f8f22a603047f8d018904dbe_lecture7.pdf
 file_size: 129529
 file_type: application/pdf
 learning_resource_types:

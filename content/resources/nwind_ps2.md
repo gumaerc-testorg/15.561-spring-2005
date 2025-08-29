@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-561-information-technology-essentials-spring-2005/b138fcaac9163315b9e5ba52934d0b98_nwind_ps2.mdb
+file: /courses/15-561-information-technology-essentials-spring-2005/b138fcaac9163315b9e5ba52934d0b98_nwind_ps2.mdb
 file_size: 2138112
 file_type: application/octet-stream
 learning_resource_types:
